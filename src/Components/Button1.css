@@ -25,7 +25,7 @@
     bottom: 0;
     position: absolute;
     z-index: -1;
-    background-color: #3AB0FF;
+    background-color: #CD104D;
     border-radius: 12px;
     transition: transform 300ms ease-in-out;
     transform: scaleX(0);

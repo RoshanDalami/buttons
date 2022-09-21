@@ -3,7 +3,7 @@ import './Button5.css'
 function Button5() {
   return (
     <div className='button'>
-      <button type='button' className='btn5'> Button 2</button>
+      <button type='button' className='btn5'> Button 5</button>
     </div>
   )
 }

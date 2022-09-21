@@ -2,6 +2,20 @@
     margin: 20px;
 }
 .btn5{
+    position: relative;
+    cursor: pointer;
+    background: none;
+    text-transform: uppercase;
+    font-weight: 700;
+    border: none;
     width: 10rem;
     height: 3rem;
+    transition: all ease-in-out .5s;
+}
+.btn5:hover{
+    margin-top: -10px;
+    background: #fa949460;
+    border-bottom: 2px solid red;
+    box-shadow: 10px 10px 15px 7px rgb(176, 170, 170);
+   
 }
