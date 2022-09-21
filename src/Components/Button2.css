@@ -1,0 +1,15 @@
+.button{
+    margin: 20px;
+}
+.btn2{
+    position: relative;
+    color:#000;
+    cursor: pointer;
+    width: 10rem;
+    height: 3rem;
+    background:none ;
+    border: 1px black solid;
+    border-radius:  12px;
+   text-transform:uppercase;
+   
+}
